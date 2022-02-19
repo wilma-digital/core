@@ -1,0 +1,26 @@
+{
+  "name": "webvisum/core",
+  "description": "N/A",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Webisum",
+      "email": "support@webvisum.com",
+      "homepage": "https://www.webvisum.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Webvisum\\Core\\": ""
+    }
+  }
+}
