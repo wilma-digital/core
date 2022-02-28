@@ -1,0 +1,35 @@
+# [<type>] #<issue_nuber>: <subject> (Max 100 char)
+# Example: [FEATURE] #23: Refactoring third party module
+# |<----  Using a Maximum Of 100 Characters  ---->|
+
+
+# Explain why this change is being made
+# Example:
+# - add PHP 7.4 support to the Foo Module
+# - fix broken Unit Test
+# - update Module XYZ
+# |<----   Try To Limit Each Line to a Maximum Of 100 Characters   ---->|
+
+# Set labels to automize things in GitLab
+# See https://gitlab.webvisum.de/help/user/project/quick_actions
+# Example:
+# /unlabel ~to do
+# /label ~to review
+# /assign @username
+# /spent 30m
+
+# --- COMMIT END ---
+# Type can be
+#    HOTFIX      (refactoring production code)
+#    FEATURE     (new feature)
+#    BUGFIX      (bug fix)
+#    RELEASE     (building and preparing release)
+#    INFRA       (changes to infrastructure)
+#    MERGE       (manual merges)
+# --------------------
+# Remember to
+#   - Do not end the subject line with a period
+#   - Separate subject from body with a blank line
+#   - Use the body to explain what and why vs. how
+#   - Can use multiple lines with "-" for bullet points in body
+# --------------------
