@@ -39,6 +39,10 @@ Maintainer
 ----------
 * @amautz
 
+Licence
+-------
+[GNU General Public License, version 3 (GPLv3)](http://opensource.org/licenses/gpl-3.0)
+
 Copyright
 ---------
 (c) 2015-2022 Webvisum Team
