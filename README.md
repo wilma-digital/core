@@ -32,7 +32,7 @@ If you encounter any problems or bugs, please create an issue on [GitHub](https:
 Developer
 ---------
 Webvisum Team
-* Website: [http://webvisum.de](http://webvisum.de)
+* Website: [https://webvisum.de](https://webvisum.de)
 * Twitter: [@webvisum](https://twitter.com/webvisum)
 
 Maintainer
@@ -45,4 +45,4 @@ Licence
 
 Copyright
 ---------
-(c) 2015-2022 Webvisum Team
+(c) 2015-2022 webvisum GmbH

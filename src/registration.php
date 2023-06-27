@@ -8,9 +8,9 @@
  * https://www.gnu.org/licenses/gpl-3.0.de.html
  * @category  webvisum
  * @package   Webvisum_Core
- * @copyright Copyright © 2022 webvisum GmbH. All rights reserved.
+ * @copyright Copyright © 2023 webvisum GmbH. All rights reserved.
  * @license    https://www.gnu.org/licenses/gpl-3.0.de.html GNU General Public License 3 License
- * @author    dm@webvisum.de
+ * @author    support@webvisum.de
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
