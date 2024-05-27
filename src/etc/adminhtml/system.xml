@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Copyright © 2023 webvisum GmbH, Inc. All rights reserved.
+ * Copyright © 2024 WilMa Digital GmbH, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
  -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
-        <tab id="webvisum_settings" class="webvisum-config-tab" translate="label" sortOrder="9000">
-            <label>Webvisum</label>
+        <tab id="wilma_settings" class="wilma-config-tab" translate="label" sortOrder="9000">
+            <label>Wilma</label>
         </tab>
     </system>
 </config>

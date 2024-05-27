@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Copyright © 2023 webvisum GmbH, Inc. All rights reserved.
+ * Copyright © 2024 WilMa Digital GmbH, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
  -->
@@ -9,7 +9,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="Webvisum_Core::core" title="Webvisum" sortOrder="10" />
+                <resource id="Wilma_Core::core" title="Wilma" sortOrder="10" />
             </resource>
         </resources>
     </acl>

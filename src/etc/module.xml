@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Copyright © 2023 webvisum GmbH, Inc. All rights reserved.
+ * Copyright © 2024 WilMa Digital GmbH, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
  -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="Webvisum_Core" setup_version="1.0.0">
+    <module name="Wilma_Core" setup_version="1.0.0">
     </module>
 </config>

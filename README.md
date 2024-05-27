@@ -11,28 +11,28 @@ Installation
 Please go to the Magento2 root directory and run the following commands in the shell:
 
 ```
-composer require webvisum/core
-bin/magento module:enable Webvisum_Core
+composer require wilma/core
+bin/magento module:enable Wilma_Core
 bin/magento setup:upgrade
 ```
 
 ### Manually
 
-Please create the directory *app/code/Webvisum/Core* and copy the files from this repository to the created directory. Then run the following commands in the shell:
+Please create the directory *app/code/Wilma/Core* and copy the files from this repository to the created directory. Then run the following commands in the shell:
 
 ```
-bin/magento module:enable Webvisum_Core
+bin/magento module:enable Wilma_Core
 bin/magento setup:upgrade
 ```
 
 Support
 -------
-If you encounter any problems or bugs, please create an issue on [GitHub](https://gitlab.webvisum.de/magento2/module/Webvisum_Core/-/issues).
+If you encounter any problems or bugs, please create an issue on [GitHub](https://gitlab.webvisum.de/magento2/module/Wilma_Core/-/issues).
 
 Developer
 ---------
 Webvisum Team
-* Website: [https://webvisum.de](https://webvisum.de)
+* Website: [https://wilma.tech](https://wilma.tech)
 * Twitter: [@webvisum](https://twitter.com/webvisum)
 
 Maintainer
@@ -45,4 +45,4 @@ Licence
 
 Copyright
 ---------
-(c) 2015-2022 webvisum GmbH
+(c) 2015-2024 WilMa Digital GmbH
