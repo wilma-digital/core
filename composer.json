@@ -17,10 +17,10 @@
   ],
   "autoload": {
     "files": [
-      "registration.php"
+      "src/registration.php"
     ],
     "psr-4": {
-      "Webvisum\\Core\\": ""
+      "Webvisum\\Core\\": "src/"
     }
   }
 }
