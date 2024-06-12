@@ -31,9 +31,8 @@ If you encounter any problems or bugs, please create an issue on [GitHub](https:
 
 Developer
 ---------
-Webvisum Team
+WilMa Digital GmbH
 * Website: [https://wilma.tech](https://wilma.tech)
-* Twitter: [@webvisum](https://twitter.com/webvisum)
 
 Maintainer
 ----------
