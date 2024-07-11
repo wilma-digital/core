@@ -27,7 +27,7 @@ bin/magento setup:upgrade
 
 Support
 -------
-If you encounter any problems or bugs, please create an issue on [GitHub](https://gitlab.webvisum.de/magento2/module/Wilma_Core/-/issues).
+If you encounter any problems or bugs, please create an issue on [GitHub](https://github.com/wilma-digital/core/issues).
 
 Developer
 ---------
