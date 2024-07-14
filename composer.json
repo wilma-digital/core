@@ -1,8 +1,8 @@
 {
-  "name": "wilma/magento2-core",
-  "description": "N/A",
+  "name": "wilma-digital/magento2-wilma-core",
+  "description": "A core module providing essential base functionalities for other modules.",
   "type": "magento2-module",
-  "version": "1.0.2.1",
+  "version": "1.0.3",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -17,10 +17,10 @@
   ],
   "autoload": {
     "files": [
-      "src/registration.php"
+      "registration.php"
     ],
     "psr-4": {
-      "Wilma\\Core\\": "src/"
+      "Wilma\\Core\\": ""
     }
   }
 }

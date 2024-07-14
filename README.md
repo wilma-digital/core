@@ -11,7 +11,7 @@ Installation
 Please go to the Magento2 root directory and run the following commands in the shell:
 
 ```
-composer require wilma/magento2-core
+composer require wilma-digital/magento2-wilma-core
 bin/magento module:enable Wilma_Core
 bin/magento setup:upgrade
 ```
