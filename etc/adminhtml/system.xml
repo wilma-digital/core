@@ -8,7 +8,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
         <tab id="wilma_settings" class="wilma-config-tab" translate="label" sortOrder="9000">
-            <label>Wilma</label>
+            <label>Wilma Digital</label>
         </tab>
     </system>
 </config>
